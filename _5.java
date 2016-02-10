@@ -111,4 +111,5 @@ public class _5 {
  *    c. We repeat the process until the number is no longer bigger than 9 or out of length.
  *    d. If out of length, we add a 1 after and replace the first digit with 1. "99" --> "00" -- >"101"
  *    
+ * Cases: 5611123, 5611173, 99, 1991
  * */
